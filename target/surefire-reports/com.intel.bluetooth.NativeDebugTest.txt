@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.intel.bluetooth.NativeDebugTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.208 sec <<< FAILURE!
+testDebug(com.intel.bluetooth.NativeDebugTest)  Time elapsed: 0.197 sec  <<< ERROR!
+javax.bluetooth.BluetoothStateException: BlueCove library bluecove not available
+	at com.intel.bluetooth.BlueCoveImpl.loadNativeLibraries(BlueCoveImpl.java:381)
+	at com.intel.bluetooth.NativeDebugTest.testDebug(NativeDebugTest.java:61)
+

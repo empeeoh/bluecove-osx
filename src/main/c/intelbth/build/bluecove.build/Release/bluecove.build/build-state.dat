@@ -1,0 +1,476 @@
+Tbluecove
+v5
+r1
+cCheck dependencies
+cCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/commonTest.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/common.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStack.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackDiscovery.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPQuery.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackTest.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMM.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAP.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050202FB00000000000006730
+t1344286640
+s26416
+
+N/System/Library/Frameworks/IOBluetooth.framework/IOBluetooth
+c00000000509E02EA000000000025C5F0
+t1352532714
+s2475504
+
+N/System/Library/Frameworks/JavaVM.framework/JavaVM
+c00000000507F18F10000000000019430
+t1350506737
+s103472
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm
+c0000000049526A3C0000000000004912
+t1230137916
+s18706
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackChannelController.mm
+c0000000049526A3C000000000000134B
+t1230137916
+s4939
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mm
+c0000000049526A3C00000000000045C3
+t1230137916
+s17859
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm
+c0000000049526A3C000000000000474E
+t1230137916
+s18254
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAPServer.mm
+c0000000049526A3C0000000000003B14
+t1230137916
+s15124
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm
+c0000000049526A3C00000000000046C8
+t1230137916
+s18120
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMMServer.mm
+c0000000049526A3C000000000000377B
+t1230137916
+s14203
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mm
+c0000000049526A3C00000000000041FB
+t1230137916
+s16891
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPServer.mm
+c0000000049526A3C0000000000004256
+t1230137916
+s16982
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm
+c0000000049526A3C0000000000002054
+t1230137916
+s8276
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/./../../../../resources/libbluecove.jnilib
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/libbluecove.jnilib
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStack.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackChannelController.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackDiscovery.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackL2CAP.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackL2CAPServer.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackRFCOMM.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackRFCOMMServer.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackSDPQuery.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackSDPServer.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackTest.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/bluecove.LinkFileList
+c000000005102DD7F000000000000068D
+t1359142271
+s1677
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/common.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/commonTest.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/libbluecove.jnilib
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStack.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackChannelController.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackDiscovery.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAP.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAPServer.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMM.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMMServer.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPQuery.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPServer.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackTest.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/bluecove.LinkFileList
+c000000005102DD7F00000000000006A5
+t1359142271
+s1701
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/common.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/commonTest.o
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/libbluecove.jnilib
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/com_intel_bluetooth_NativeTestInterfaces.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp
+c0000000049526A3C00000000000071AD
+t1230137916
+s29101
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.h
+c0000000049540ED0000000000000248D
+t1230245584
+s9357
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonObjects.h
+c0000000049526A3C0000000000000FE7
+t1230137916
+s4071
+
+N/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp
+c000000005102DD100000000000001692
+t1359142160
+s5778
+i"common.h"
+i"commonObjects.h"
+i"com_intel_bluetooth_NativeTestInterfaces.h"
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3e97c5ff14b3b641^8864e0ff14b3b641^---0#1#0#--18"Check dependencies36"B23A8832-E4E7-4C92-9680-F8EE20765D35-
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStack.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackChannelController.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackChannelController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackDiscovery.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackL2CAP.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackL2CAPServer.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAPServer.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackRFCOMM.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackRFCOMMServer.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMMServer.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackSDPQuery.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackSDPServer.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPServer.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/OSXStackTest.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/common.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/i386/commonTest.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStack.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380835071.882190
+e380835072.756222
+r0
+xCompileC
+xbuild/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStack.o
+x/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm:25:
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found
+o#include "com_intel_bluetooth_BluetoothStackOSX.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm4818e2ff14b3b641^6f9bc10015b3b641^-323"In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm:25:/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found#include "com_intel_bluetooth_BluetoothStackOSX.h"         ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm0000000000000000^2971"CompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStack.o OSXStack.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/bluecove.hmap -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources/x86_64 -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources -F/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release -MMD -MT dependencies -MF /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStack.d --serialize-diagnostics /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStack.dia -c /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.mm -o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStack.o36"E1D42EB6-9851-4563-89ED-A41F8A5E3CC6-
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackChannelController.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackChannelController.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackDiscovery.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380835071.882210
+e380835072.856868
+r0
+xCompileC
+xbuild/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackDiscovery.o
+x/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mm:25:
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.h:30:
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found
+o#include "com_intel_bluetooth_BluetoothStackOSX.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mmc217e2ff14b3b641^6b60db0015b3b641^-436"In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mm:25:In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.h:30:/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found#include "com_intel_bluetooth_BluetoothStackOSX.h"         ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mm0000000000000000^3025"CompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackDiscovery.o OSXStackDiscovery.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/bluecove.hmap -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources/x86_64 -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources -F/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release -MMD -MT dependencies -MF /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackDiscovery.d --serialize-diagnostics /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackDiscovery.dia -c /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackDiscovery.mm -o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackDiscovery.o36"12AB1DFB-B255-40FB-B927-25401CDE73BE-
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAP.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380835071.882577
+e380835072.756226
+r0
+xCompileC
+xbuild/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAP.o
+x/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm:25:
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.h:25:
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackChannelController.h:25:
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found
+o#include "com_intel_bluetooth_BluetoothStackOSX.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm1618e2ff14b3b641^6895c10015b3b641^-540"In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm:25:In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.h:25:In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackChannelController.h:25:/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found#include "com_intel_bluetooth_BluetoothStackOSX.h"         ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm0000000000000000^3001"CompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAP.o OSXStackL2CAP.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/bluecove.hmap -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources/x86_64 -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources -F/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release -MMD -MT dependencies -MF /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAP.d --serialize-diagnostics /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAP.dia -c /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAP.mm -o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAP.o36"E0864C0E-2B3F-4EBD-85AF-2CA7F906D728-
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackL2CAPServer.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackL2CAPServer.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMM.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380835071.882297
+e380835072.756259
+r0
+xCompileC
+xbuild/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMM.o
+x/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm:25:
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.h:25:
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackChannelController.h:25:
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found
+o#include "com_intel_bluetooth_BluetoothStackOSX.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm0119e2ff14b3b641^fe9dc10015b3b641^-542"In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm:25:In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.h:25:In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackChannelController.h:25:/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found#include "com_intel_bluetooth_BluetoothStackOSX.h"         ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm0000000000000000^3007"CompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMM.o OSXStackRFCOMM.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/bluecove.hmap -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources/x86_64 -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources -F/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release -MMD -MT dependencies -MF /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMM.d --serialize-diagnostics /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMM.dia -c /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMM.mm -o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMM.o36"7610AD71-3853-4FE5-8A8C-8FE077BDCBED-
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackRFCOMMServer.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackRFCOMMServer.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPQuery.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380835071.882214
+e380835072.856907
+r0
+xCompileC
+xbuild/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPQuery.o
+x/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mm:25:
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.h:27:
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found
+o#include "com_intel_bluetooth_BluetoothStackOSX.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mmb919e2ff14b3b641^e962db0015b3b641^-434"In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mm:25:In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.h:27:/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found#include "com_intel_bluetooth_BluetoothStackOSX.h"         ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mm0000000000000000^3019"CompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPQuery.o OSXStackSDPQuery.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/bluecove.hmap -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources/x86_64 -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources -F/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release -MMD -MT dependencies -MF /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPQuery.d --serialize-diagnostics /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPQuery.dia -c /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.mm -o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPQuery.o36"5031DDB8-B957-4058-A0B0-4F598FD126D5-
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackSDPServer.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPServer.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackTest.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380835071.882254
+e380835072.856895
+r0
+xCompileC
+xbuild/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackTest.o
+x/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm:25:
+oIn file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.h:27:
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found
+o#include "com_intel_bluetooth_BluetoothStackOSX.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm6e17e2ff14b3b641^ae64db0015b3b641^-430"In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm:25:In file included from /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackSDPQuery.h:27:/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStack.h:35:10: fatal error: 'com_intel_bluetooth_BluetoothStackOSX.h' file not found#include "com_intel_bluetooth_BluetoothStackOSX.h"         ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm0000000000000000^2995"CompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackTest.o OSXStackTest.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/bluecove.hmap -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources/x86_64 -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources -F/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release -MMD -MT dependencies -MF /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackTest.d --serialize-diagnostics /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackTest.dia -c /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/OSXStackTest.mm -o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/OSXStackTest.o36"B04D03AC-1977-4554-AD88-A509A5319E45-
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/common.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380835071.882178
+e380835072.756189
+r1
+xCompileC
+xbuild/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/common.o
+x/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:148:16: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o        return "FALSE";
+o               ^
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:150:16: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o        return "TRUE";
+o               ^
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:436:5: warning: 'MPCreateCriticalRegion' is deprecated: first deprecated in Mac OS X 10.7 [-Wdeprecated-declarations]
+o    MPCreateCriticalRegion(criticalRegion);
+o    ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Multiprocessing.h:760:1: note: 'MPCreateCriticalRegion' declared here
+oMPCreateCriticalRegion(MPCriticalRegionID * criticalRegion)   __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_0, __MAC_10_7, __IPHONE_NA, __IPHONE_NA);
+o^
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:439:5: warning: 'MPDeleteCriticalRegion' is deprecated: first deprecated in Mac OS X 10.7 [-Wdeprecated-declarations]
+o    MPDeleteCriticalRegion(*criticalRegion);
+o    ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Multiprocessing.h:777:1: note: 'MPDeleteCriticalRegion' declared here
+oMPDeleteCriticalRegion(MPCriticalRegionID criticalRegion)     __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_0, __MAC_10_7, __IPHONE_NA, __IPHONE_NA);
+o^
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:442:5: warning: 'MPEnterCriticalRegion' is deprecated: first deprecated in Mac OS X 10.7 [-Wdeprecated-declarations]
+o    MPEnterCriticalRegion(*criticalRegion, kDurationForever);
+o    ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Multiprocessing.h:794:1: note: 'MPEnterCriticalRegion' declared here
+oMPEnterCriticalRegion(
+o^
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:445:5: warning: 'MPExitCriticalRegion' is deprecated: first deprecated in Mac OS X 10.7 [-Wdeprecated-declarations]
+o    MPExitCriticalRegion(*criticalRegion);
+o    ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Multiprocessing.h:813:1: note: 'MPExitCriticalRegion' declared here
+oMPExitCriticalRegion(MPCriticalRegionID criticalRegion)       __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_0, __MAC_10_7, __IPHONE_NA, __IPHONE_NA);
+o^
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:692:34: warning: when type is in parentheses, array cannot have dynamic size
+o    objs = new (PoolableObject* [size]);
+o               ~                 ^~~~ ~
+o7 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp6a18e2ff14b3b641^e09cc10015b3b641^-3135"/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:148:16: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]        return "FALSE";               ^/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:150:16: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]        return "TRUE";               ^/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:436:5: warning: 'MPCreateCriticalRegion' is deprecated: first deprecated in Mac OS X 10.7 [-Wdeprecated-declarations]    MPCreateCriticalRegion(criticalRegion);    ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Multiprocessing.h:760:1: note: 'MPCreateCriticalRegion' declared hereMPCreateCriticalRegion(MPCriticalRegionID * criticalRegion)   __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_0, __MAC_10_7, __IPHONE_NA, __IPHONE_NA);^/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:439:5: warning: 'MPDeleteCriticalRegion' is deprecated: first deprecated in Mac OS X 10.7 [-Wdeprecated-declarations]    MPDeleteCriticalRegion(*criticalRegion);    ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Multiprocessing.h:777:1: note: 'MPDeleteCriticalRegion' declared hereMPDeleteCriticalRegion(MPCriticalRegionID criticalRegion)     __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_0, __MAC_10_7, __IPHONE_NA, __IPHONE_NA);^/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:442:5: warning: 'MPEnterCriticalRegion' is deprecated: first deprecated in Mac OS X 10.7 [-Wdeprecated-declarations]    MPEnterCriticalRegion(*criticalRegion, kDurationForever);    ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Multiprocessing.h:794:1: note: 'MPEnterCriticalRegion' declared hereMPEnterCriticalRegion(^/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:445:5: warning: 'MPExitCriticalRegion' is deprecated: first deprecated in Mac OS X 10.7 [-Wdeprecated-declarations]    MPExitCriticalRegion(*criticalRegion);    ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Multiprocessing.h:813:1: note: 'MPExitCriticalRegion' declared hereMPExitCriticalRegion(MPCriticalRegionID criticalRegion)       __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_0, __MAC_10_7, __IPHONE_NA, __IPHONE_NA);^/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp:692:34: warning: when type is in parentheses, array cannot have dynamic size    objs = new (PoolableObject* [size]);               ~                 ^~~~ ~7 warnings generated.-0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp0000000000000000^2602"CompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/common.o common.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/bluecove.hmap -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources/x86_64 -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources -F/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release -MMD -MT dependencies -MF /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/common.d --serialize-diagnostics /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/common.dia -c /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/common.cpp -o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/common.o36"A247AF75-5717-43DF-A471-192A18B66F5C-
+
+CCompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/commonTest.o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380835071.882169
+e380835072.554133
+r0
+xCompileC
+xbuild/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/commonTest.o
+x/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp:32:10: fatal error: 'com_intel_bluetooth_NativeTestInterfaces.h' file not found
+o#include "com_intel_bluetooth_NativeTestInterfaces.h"
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp0119e2ff14b3b641^c7d48d0015b3b641^-237"/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp:32:10: fatal error: 'com_intel_bluetooth_NativeTestInterfaces.h' file not found#include "com_intel_bluetooth_NativeTestInterfaces.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@59"'com_intel_bluetooth_NativeTestInterfaces.h' file not found-380835072#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@88"file://localhost/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp0000000000000000^31#9#31#9#1139#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@88"file://localhost/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp0000000000000000^2626"CompileC build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/commonTest.o commonTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/bluecove.hmap -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/JavaVM.framework/Headers -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources/x86_64 -I/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/DerivedSources -F/Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release -MMD -MT dependencies -MF /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/commonTest.d --serialize-diagnostics /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/commonTest.dia -c /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/commonTest.cpp -o /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/commonTest.o36"2941F208-1882-46DE-94EE-D63558362ADD-
+
+CCreateUniversalBinary /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/Release/libbluecove.jnilib normal "x86_64 i386"
+r0
+
+CLd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/i386/libbluecove.jnilib normal i386
+r0
+
+CLd /Users/kuehn/Downloads/bluecove-2.1.0/src/main/c/intelbth/build/bluecove.build/Release/bluecove.build/Objects-normal/x86_64/libbluecove.jnilib normal x86_64
+r0
+
+CPBXCp build/Release/libbluecove.jnilib build/Release/./../../../../resources/libbluecove.jnilib
+r0
+
